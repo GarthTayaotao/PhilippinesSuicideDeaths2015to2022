@@ -1,10 +1,10 @@
 # Philippines Suicide Report (2015 to 2022)
 ## Objectives - Insights discovered:
-### Total Suicide Deaths from 2015 to 2022
-### Male vs Female Suicide Cases
-### Average Age, Minimum Age, Maximum Age of people who committed suicide
-### Cause of Death / Suicide methods
-### Suicide counts per Region and Province
+#### Total Suicide Deaths from 2015 to 2022
+#### Male vs Female Suicide Cases
+#### Average Age, Minimum Age, Maximum Age of people who committed suicide
+#### Cause of Death / Suicide methods
+#### Suicide counts per Region and Province
 
 
 ## Dataset
