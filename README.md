@@ -1,4 +1,4 @@
-![Philippine Suicide Report Page 1](https://github.com/GarthTayaotao/PhilippinesSuicideDeaths2015to2022/assets/168753610/488fbf11-b45f-4b93-abfc-f56fbea442b5)# Philippines Suicide Report (2015 to 2022)
+# Philippines Suicide Report (2015 to 2022)
 ## Objectives
 
 
